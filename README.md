@@ -3,11 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnamidathana&label=Profile%20views&color=0e75b6&style=flat" alt="krishnamidathana" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnamidathana" alt="krishnamidathana" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/krishna96153009" target="blank"><img src="https://img.shields.io/twitter/follow/krishna96153009?logo=twitter&style=for-the-badge" alt="krishna96153009" /></a> </p>
 
 - 🌱 I’m currently learning **Nextjs**
 

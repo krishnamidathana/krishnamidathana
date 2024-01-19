@@ -5,16 +5,16 @@
 
 
 
- 🌱 I’m currently learning **Nextjs**
+ -🌱 I’m currently learning **Nextjs**
  
 
-  <div></div>
- 💬 Ask me about **React, Javascript, Css, Html**
- <div></div>
+  
+ -💬 Ask me about **React, Javascript, Css, Html**
+ 
 
   
- 📫 How to reach me **krishnakrrish66@gmail.com**
- <div></div>
+ -📫 How to reach me **krishnakrrish66@gmail.com**
+ 
 
 
 

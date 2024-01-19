@@ -6,9 +6,7 @@
 
 
 - 🌱 I’m currently learning **Nextjs**
-
 - 💬 Ask me about **React, Javascript, Css, Html**
-
 - 📫 How to reach me **krishnakrrish66@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

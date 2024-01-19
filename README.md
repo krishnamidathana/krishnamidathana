@@ -6,12 +6,15 @@
 
 
  🌱 I’m currently learning **Nextjs**
+ 
 
   
  💬 Ask me about **React, Javascript, Css, Html**
+ 
 
   
  📫 How to reach me **krishnakrrish66@gmail.com**
+ 
 
 
 
@@ -22,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnamidathana&show_icons=true&locale=en&layout=compact" alt="krishnamidathana" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=krishnamidathana&show_icons=true&locale=en" alt="krishnamidathana" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnamidathana&show_icons=true&locale=en" alt="krishnamidathana" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamidathana&" alt="krishnamidathana" /></p>
+<p><img align="cwnter" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamidathana&" alt="krishnamidathana" /></p>

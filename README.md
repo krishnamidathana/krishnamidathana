@@ -17,58 +17,26 @@
  -🌱 I’m currently learning **Nextjs**
 
 
+
+ -🚀 All of my projects are available at
+
+
  
  -💬 Ask me about **React, Javascript, Css, Html**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
 
 
  
   -📫 How to reach me **krishnakrrish66@gmail.com**
 
 
- 
+  -💻 I am currently workin on
+
+
+
+  
+
 
  
-
- 
-
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>

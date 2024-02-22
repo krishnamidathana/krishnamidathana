@@ -18,7 +18,7 @@
 
 
 
- -🚀 All of my projects are available at **[Portfolio](https://krishnamohanportfolio.netlify.app/)**
+ -🚀 Check out my **[Portfolio](https://krishnamohanportfolio.netlify.app/)**
 
 
  

@@ -28,7 +28,7 @@
  
   -📫 How to reach me **krishnakrrish66@gmail.com**
   
-  -📫 My portfolio **[krishnakrrish66@gmail.com](https://krishnamohanportfolio.netlify.app/)**
+  -📫 My **[Portfolio](https://krishnamohanportfolio.netlify.app/)**
 
 
   -💻 I am currently working on

@@ -18,7 +18,7 @@
 
 
 
- -🚀 All of my projects are available at
+ -🚀 All of my projects are available at **[Portfolio](https://krishnamohanportfolio.netlify.app/)**
 
 
  
@@ -31,7 +31,6 @@
   -📫 My **[Portfolio](https://krishnamohanportfolio.netlify.app/)**
 
 
-  -💻 I am currently learning NextJs
 
 
 

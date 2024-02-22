@@ -31,7 +31,7 @@
   -📫 My **[Portfolio](https://krishnamohanportfolio.netlify.app/)**
 
 
-  -💻 I am currently working on
+  -💻 I am currently learning NextJs
 
 
 
